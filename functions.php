@@ -2,7 +2,7 @@
 
 //(2) index.php
 //koneksi ke database dan ambil variabel sebagai 'db'
-$db = mysqli_connect("localhost", "root", "setya123", "akademik");
+$db = mysqli_connect("", "", "", "");
 
 //(5) index.php
 //membuat function query untuk menerima parameter query
